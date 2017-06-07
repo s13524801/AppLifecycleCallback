@@ -1,0 +1,2 @@
+# AppLifecycleCallback
+Application.ActivityLifecycleCallbacks
